@@ -7,20 +7,20 @@
 
 ## 目录结构
 
-    ├─front-end				// 前端项目文件
-    |	├─build				// 项目相关配置
-    |	├─config			// 项目相关配置
-    |	├─static			// 静态资源目录
-    |	├─dist				// 打包后目录
+    ├─front-end				    // 前端项目文件
+    |	├─build				    // 项目相关配置
+    |	├─config			    // 项目相关配置
+    |	├─static			    // 静态资源目录
+    |	├─dist				    // 打包后目录
     |	├─src
-    |	|	├─assets		// 字体图片资源
-    |	|	├─components	// 组件目录
-    |	|	├─lib			// 外部引入包
-    |	|	├─router		// vue-router配置
-    |	|	├─App.vue		// 根组件
-    |	|	├─main.js		// 项目入口文件
-    |	├─index.html		// 项目入口文件
-    |	├─package.json		// 项目配置文件
+    |	|	├─assets		    // 字体图片资源
+    |	|	├─components	    // 组件目录
+    |	|	├─lib			    // 外部引入包
+    |	|	├─router		    // vue-router配置
+    |	|	├─App.vue		    // 根组件
+    |	|	├─main.js		    // 项目入口文件
+    |	├─index.html		    // 项目入口文件
+    |	├─package.json		    // 项目配置文件
     |	├─package-lock.json
     |	├─.babelrc
     |	├─.editorconfig
@@ -28,15 +28,15 @@
     |	├─.eslintrc.js
     |	├─.postcssrc.js
     |	└─.prettierrc
-    ├─WebApi				// 接口项目文件
-    ├─prediction-model		// 预测模型
-    |	├─dailyForecast.py	// 日客流预测模型
-    |	├─hourlyForecast.py	// 小时客流预测模型
-    |	└─cntPflow.py		// 客流量统计
+    ├─WebApi				    // 接口项目文件
+    ├─prediction-model		    // 预测模型
+    |	├─dailyForecast.py	    // 日客流预测模型
+    |	├─hourlyForecast.py	    // 小时客流预测模型
+    |	└─cntPflow.py		    // 客流量统计
     ├─database
-    |	└─zhikexing.sql		// 数据库文件
-    ├─接口文档.docx			 // 接口文档
-    └─README.md				// 说明文件
+    |	└─zhikexing.sql		    // 数据库文件
+    ├─接口文档.docx			    // 接口文档
+    └─README.md				    // 说明文件
 
 ## 本地运行步骤
 
